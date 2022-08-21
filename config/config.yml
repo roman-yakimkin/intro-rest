@@ -1,0 +1,4 @@
+bind_addr: ":8080"
+mongo_uri: "mongodb://db:27017/"
+max_entities: 100
+copy_data_interval_ms: 1000
